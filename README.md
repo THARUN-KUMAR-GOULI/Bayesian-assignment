@@ -1,0 +1,1 @@
+--> This Python script is a command-line tool that utilizes Click for CLI management and interacts with the Ollama API to generate a summary based on user-provided text or text from a file.
